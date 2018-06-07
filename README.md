@@ -1,5 +1,7 @@
-docker-postfix
+raspbian-docker-postfix
 ==============
+
+a raspbian-compatible fork of catatnight/docker-postfix
 
 run postfix with smtp authentication (sasldb) in a docker container.
 TLS and OpenDKIM support are optional.
