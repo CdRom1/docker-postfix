@@ -1,5 +1,5 @@
-From ubuntu:trusty
-MAINTAINER Elliott Ye
+FROM resin/rpi-raspbian:latest
+MAINTAINER CdRom1
 
 # Set noninteractive mode for apt-get
 ENV DEBIAN_FRONTEND noninteractive
